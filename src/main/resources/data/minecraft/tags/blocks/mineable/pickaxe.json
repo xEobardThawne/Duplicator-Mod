@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "duplicatormod:duplicator_core",
+    "duplicatormod:duplicator_controller",
+    "duplicatormod:duplicator_item_input_port",
+    "duplicatormod:duplicator_item_output_port",
+    "duplicatormod:duplicator_catalyst_port",
+    "duplicatormod:duplicator_energy_port",
+    "duplicatormod:duplicator_casing"
+  ]
+}

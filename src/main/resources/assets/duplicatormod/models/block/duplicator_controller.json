@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "north": "duplicatormod:block/duplicator_controller",
+    "south": "duplicatormod:block/duplicator_casing",
+    "up": "duplicatormod:block/duplicator_casing",
+    "down": "duplicatormod:block/duplicator_casing",
+    "west": "duplicatormod:block/duplicator_casing",
+    "east": "duplicatormod:block/duplicator_casing",
+    "particle": "duplicatormod:block/duplicator_controller"
+  }
+}

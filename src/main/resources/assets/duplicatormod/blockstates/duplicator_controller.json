@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "duplicatormod:block/duplicator_controller",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "duplicatormod:block/duplicator_controller"
+    },
+    "facing=south": {
+      "model": "duplicatormod:block/duplicator_controller",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duplicatormod:block/duplicator_controller",
+      "y": 270
+    }
+  }
+}

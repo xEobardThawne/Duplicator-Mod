@@ -1,0 +1,9 @@
+{
+  "block.duplicatormod.duplicator_core": "Duplicator Core",
+  "block.duplicatormod.duplicator_controller": "Duplicator Controller",
+  "block.duplicatormod.duplicator_casing": "Duplicator Casing",
+  "block.duplicatormod.duplicator_energy_port": "Duplicator Energy Port",
+  "block.duplicatormod.duplicator_item_input_port": "Duplicator Item Input Port",
+  "block.duplicatormod.duplicator_item_output_port": "Duplicator Item Output Port",
+  "block.duplicatormod.duplicator_catalyst_port": "Duplicator Catalyst Port"
+}

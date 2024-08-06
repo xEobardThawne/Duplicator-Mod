@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "duplicatormod:block/duplicator_energy_port" }
+  }
+}
